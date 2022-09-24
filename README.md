@@ -21,3 +21,7 @@ In the new Git Bash window, type this: git clone https://github.com/BananaApache
 Then type this command: pip3 install requests bs4 pdfx colorama && python3 trainor_hw/questions.py
 
 - On Mac:
+
+Press Command + Space to open spotlight
+
+Then type terminal
